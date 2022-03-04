@@ -56,7 +56,7 @@ Notes :
 18. TENURE : Tenure of credit card service for user<br>
 
 ## The NOTEBOOK Table of Contents:
-- Business Understanding
+- Business Problem Understanding
 - Library
 - Data Preprocessing & Feature Engineering
 - Data Scaling
