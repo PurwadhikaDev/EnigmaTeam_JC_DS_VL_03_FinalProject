@@ -1,7 +1,9 @@
 # EnigmaTeam_JC_DS_VL_03_FinalProject
 
 ##### **CONSULTANT ANALYST: BANK X**
+EnigmaTeam is a team of 2 people tasked with completing a data science project. This project is dedicated as a graduation requirement from the Job Connector Data Science Program in Purwadhika Digital Technology School.
 ### Created By: Irwanti (irwanti100@gmail.com) & Josceline Naomi (naomijosceline@gmail.com)
+
 ### **Business Problem Understanding**
 **Context**
 
