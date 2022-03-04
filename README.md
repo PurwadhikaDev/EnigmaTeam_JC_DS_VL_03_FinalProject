@@ -1,7 +1,7 @@
 # EnigmaTeam_JC_DS_VL_03_FinalProject
 
 ##### **CONSULTANT ANALYST: BANK X**
-### Created By: - Irwanti (irwanti100@gmail.com) - Josceline Naomi (naomijosceline@gmail.com)
+### Created By: Irwanti (irwanti100@gmail.com) & Josceline Naomi (naomijosceline@gmail.com)
 ### **Business Problem Understanding**
 **Context**
 
